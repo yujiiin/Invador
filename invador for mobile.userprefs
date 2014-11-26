@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Main_scene/Scripts/Manager_script.js">
+    <Files>
+      <File FileName="Assets/Main_scene/Scripts/player_script.js" Line="5" Column="29" />
+      <File FileName="Assets/Main_scene/Scripts/Manager_script.js" Line="57" Column="68" />
+      <File FileName="Assets/Main_scene/Scripts/Laser_script.js" Line="8" Column="27" />
+      <File FileName="Assets/Main_scene/Scripts/Enemy_laser_script.js" Line="26" Column="2" />
+      <File FileName="Assets/Main_scene/Scripts/Enemy_script.js" Line="23" Column="36" />
+      <File FileName="Assets/Main_scene/Scripts/Boss_script.js" Line="28" Column="24" />
+      <File FileName="Assets/Main_scene/Scripts/Enemy_spawn_script.js" Line="17" Column="85" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

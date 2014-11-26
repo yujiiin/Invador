@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Main_scene/Scripts/Manager_script.js">
+    <Files>
+      <File FileName="Assets/Player_win_scene/Script/Explosion_animation_script.js" Line="24" Column="4" />
+      <File FileName="Assets/Main_scene/Scripts/Manager_script.js" Line="80" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c3a6ddaedc96d47ecbbffb82a70ac6ad
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - collided_with: {instanceID: 0}
+  - laser_pref: {fileID: 400000, guid: f1df56d9c864145a79107ebda78142a4, type: 2}
+  - shotSound: {fileID: 8300000, guid: 0ac553c6650cb4f8c9b217e48597351d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
